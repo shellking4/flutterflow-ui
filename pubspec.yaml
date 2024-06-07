@@ -45,14 +45,14 @@ dependencies:
   font_awesome_flutter: 10.6.0
   fl_chart: 0.55.0
   from_css_color: 2.0.0
-  google_fonts: 6.1.0
+  google_fonts: any
   intl: 0.18.1
   json_path:
   mime_type: 1.0.0
   page_transition: 2.1.0
   percent_indicator: 4.2.2
-  rive: 0.10.3
-  rive_common: 0.0.6
+  rive: any
+  rive_common: any
   provider: 6.0.5
   smooth_page_indicator: 1.1.0
   sqflite: 2.2.6
